@@ -1,9 +1,7 @@
-<style>
-body {
-  background-image: url("https://media.istockphoto.com/photos/dolphins-jumping-from-the-sea-picture-id869243054?b=1&k=20&m=869243054&s=170667a&w=0&h=UrfeCNcI2KDOhM_TOZaHGJmq4tsEZIFbSqgJYzuvMHk=");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-}
-</style>
 #card-element {
+display: flex;
+width: 80px;
+}
+#explore {
+  width: 50px;
+}
